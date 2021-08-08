@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<manifest>
+	<agents>
+		<agent name="TreeBB" class="algorithms.complete.TreeBBAgent" method="sync"></agent>
+		<agent name="bnbadoptPlus_FDAC" class="algorithms.complete.BnBADOPT.BnBADOPT_Plus_FDAC" method="sync"></agent>
+		<agent name="PTFB" class="algorithms.complete.PTFB" method="sync"></agent>
+        <agent name="HSCAIK8" class="algorithms.complete.HSCAI.HSCAI" method="SYNC"></agent>
+
+		<agent name="TreeBB_BIPk8_NCLOs" class="algorithms.complete.TreeBBAgent_BIP" method="sync"></agent>
+		<agent name="bnbadoptPlus_FDAC_BIPK8_NCLOs" class="algorithms.complete.BnBADOPT.BnBADOPT_Plus_FDAC_BIP" method="sync"></agent>
+		<agent name="PTFB_BIPK8_NCLOs" class="algorithms.complete.PTFB_BIP" method="sync"></agent>
+		<agent name="HSCAI_BIPK8_NCLOs" class="algorithms.complete.HSCAI.HSCAI_BIP" method="SYNC"></agent>
+		</agents>
+</manifest>
